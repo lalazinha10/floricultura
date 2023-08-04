@@ -14,7 +14,7 @@
 
 }
 .cabecalho-lista-item{
-    display: inline-block;
+    display: inline-flexbox;
     margin: 0 10px;
     font-size: 20px;
 }
