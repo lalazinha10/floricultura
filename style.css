@@ -24,6 +24,6 @@
 .imagens-buque{
 background-color: rgb(134, 133, 123);
 display: flex;
-align-items: center;
+align-items: start;
 
 }
