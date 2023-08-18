@@ -22,11 +22,19 @@
 .img1{
 width: 35%;
 padding: 10%;
+display: flex;
+align-content: center;
+align-items: center;
+
 }
 
 .img2{
     width: 55%;
     padding: 35%;
+    display: flex;
+align-content: center;
+align-items: center;
+
 }
  
 .imagens-buque{
