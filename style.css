@@ -28,45 +28,11 @@ padding: 10%;
     width: 35%;
     padding: 25%;
 }
-    
- .img3{
- width: 10%;
- padding: 10%;
- }
-
- .img4{
-    width: 15%;
-    padding: 10%;
-    }
-
-
-.img5{
-        width: 10%;
-        padding: 10%;
-    
-}
- .img6{
- width: 10%;
- padding: 10%;
-}       
-.img7{
-    width: 10%;
-    padding: 10%;
-    }
-
-.img8{
-        width: 10%;
-        padding: 10%;
-        }
-
- .img9{
-            width: 10%;
-            padding: 10%;
-            }
-
-            
+ 
 .imagens-buque{
 background-color: rgb(134, 133, 123);
 display: flex;
+align-content: center;
+align-items: center;
 
 }
