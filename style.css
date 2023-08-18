@@ -25,5 +25,7 @@
 background-color: rgb(134, 133, 123);
 display: flex;
 align-items: start;
+width: auto;
+height: auto;
 
 }
